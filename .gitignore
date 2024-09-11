@@ -18,3 +18,4 @@
 # Keep:
 !.gitignore
 !.gitattributes
+!.nojekyll
